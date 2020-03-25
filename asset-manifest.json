@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TCTR7/ReactJS.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/TCTR7/ReactJS.git/static/js/main.af07550e.chunk.js",
-    "main.js.map": "/TCTR7/ReactJS.git/static/js/main.af07550e.chunk.js.map",
-    "runtime-main.js": "/TCTR7/ReactJS.git/static/js/runtime-main.1954c764.js",
-    "runtime-main.js.map": "/TCTR7/ReactJS.git/static/js/runtime-main.1954c764.js.map",
-    "static/js/2.a430f49c.chunk.js": "/TCTR7/ReactJS.git/static/js/2.a430f49c.chunk.js",
-    "static/js/2.a430f49c.chunk.js.map": "/TCTR7/ReactJS.git/static/js/2.a430f49c.chunk.js.map",
-    "index.html": "/TCTR7/ReactJS.git/index.html",
-    "precache-manifest.68a96096b9f1ec69412ded2a32276148.js": "/TCTR7/ReactJS.git/precache-manifest.68a96096b9f1ec69412ded2a32276148.js",
-    "service-worker.js": "/TCTR7/ReactJS.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/TCTR7/ReactJS.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/TCTR7/ReactJS.git/static/js/2.a430f49c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/TCTR7/ReactJS.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ReactJS/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactJS/static/js/main.e80585b1.chunk.js",
+    "main.js.map": "/ReactJS/static/js/main.e80585b1.chunk.js.map",
+    "runtime-main.js": "/ReactJS/static/js/runtime-main.37abde28.js",
+    "runtime-main.js.map": "/ReactJS/static/js/runtime-main.37abde28.js.map",
+    "static/js/2.a430f49c.chunk.js": "/ReactJS/static/js/2.a430f49c.chunk.js",
+    "static/js/2.a430f49c.chunk.js.map": "/ReactJS/static/js/2.a430f49c.chunk.js.map",
+    "index.html": "/ReactJS/index.html",
+    "precache-manifest.395556ca26172f63fd0d2f32536f7ad9.js": "/ReactJS/precache-manifest.395556ca26172f63fd0d2f32536f7ad9.js",
+    "service-worker.js": "/ReactJS/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactJS/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/ReactJS/static/js/2.a430f49c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactJS/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1954c764.js",
+    "static/js/runtime-main.37abde28.js",
     "static/js/2.a430f49c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.af07550e.chunk.js"
+    "static/js/main.e80585b1.chunk.js"
   ]
 }
